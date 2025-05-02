@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seon-hwan%20GIT-hub&fontSize=70)
 
 👋
-<strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I'm interested in *Android ,iOS, Ai and machine learning* </strong>
+<strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I'm interested in *Game Programming and machine learning* </strong>
 <br>
 🐤
 <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I develop *android app and Ai*  </strong>
