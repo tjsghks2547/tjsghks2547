@@ -10,15 +10,13 @@
 <br>
 <br>
 🏃&nbsp;&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjsghks2547&count_bg=%2379C83D&title_bg=%230DB1EC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 <div align="left">
   <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Platforms ＆ Language</strong>
   <br>
   <br>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&color=5C2D91">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&color=5C2D91">
   <br>
   <br>
   <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Tools</strong>
