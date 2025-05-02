@@ -12,7 +12,7 @@
 🏃&nbsp;&nbsp;
 
 <div align="left">
-  <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Platforms ＆ Language</strong>
+  <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Stacks</strong>
   <br>
   <br>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
