@@ -23,10 +23,16 @@
 <img src="https://img.shields.io/badge/WinAPI-008080?style=flat&color=008080">
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsghks2547&show_icons=true&theme=dracula)
+
+
+---
 
 ## 📝 Blog
 <a href="https://velog.io/@tjsghks2547">
   <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
 </a>
+
+
 
 </div>
