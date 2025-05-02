@@ -15,7 +15,7 @@
   <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Platforms ＆ Language</strong>
   <br>
   <br>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&color=5C2D91">
   <br>
   <br>
