@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/WinAPI-008080?style=flat-square&color=008080">
   <br>
   <br>
-  <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Tools</strong>
+  <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Blog</strong>	
   <br>
   <br>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" />
