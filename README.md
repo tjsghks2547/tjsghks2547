@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seon-hwan%20GIT-hub&fontSize=70">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIM SEON HWAN&fontSize=70">
 </div>
 
 <div align="center">
