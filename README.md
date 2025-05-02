@@ -17,9 +17,7 @@
   <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Platforms ＆ Language</strong>
   <br>
   <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   <br>
   <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">Tools</strong>
