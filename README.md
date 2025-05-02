@@ -1,6 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seon-hwan%20GIT-hub&fontSize=70">
+</div>
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seon-hwan%20GIT-hub&fontSize=70)
 
 👋  
 <strong style="font-size: 24px; font-weight:bold;">I'm interested in <em>Game Programming and Machine Learning</em></strong>  
