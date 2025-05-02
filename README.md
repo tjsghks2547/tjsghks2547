@@ -5,7 +5,7 @@
 <strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I'm interested in *Game Programming and machine learning* </strong>
 <br>
 🐤
-<strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I develop * Game Programming and Ai*  </strong>
+<strong style="font-size: 48px; font-weight:bold; text-decoration: none;">I develop * Game Programming *  </strong>
 💨
 <br>
 <br>
