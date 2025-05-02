@@ -6,11 +6,11 @@
 
 <div align="center">
 
-👋  
-<strong style="font-size: 24px; font-weight:bold;">I'm interested in <em>Game Programming and Machine Learning</em></strong>  
-🐤  
-<strong style="font-size: 24px; font-weight:bold;">I develop <em>Game Programming</em></strong>  
-💨
+
+<strong style="font-size: 24px; font-weight:bold;">I'm interested in <em>Game Programming and Machine Learning</em></strong>  👋  
+ 
+<strong style="font-size: 24px; font-weight:bold;">I develop <em>Game Programming</em></strong>  🐤 💨
+
 
 ---
 
