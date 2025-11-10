@@ -26,16 +26,16 @@
       <br/>
       <sub><b>MultiShooting</b></sub><br/>
       <sub>Unity_PUN2 개인 프로젝트</sub><br/>
-      <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">레포 바로가기</a></sub>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/내아이디/Thymesia">
-        <img src="https://github.com/내아이디/내레포/raw/main/images/thymesia.png" width="260px" />
+      <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
+        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="260px" />
       </a>
       <br/>
       <sub><b>Thymesia</b></sub><br/>
       <sub>DirectX11 팀 프로젝트</sub><br/>
-      <sub><a href="https://github.com/내아이디/Thymesia">레포 바로가기</a></sub>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/내아이디/ThymesiaMapTool">
