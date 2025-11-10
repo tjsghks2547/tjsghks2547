@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
-        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="400px" />
+        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="325px" />
       </a>
       <br/>
       <sub><b>Thymesia</b></sub><br/>
