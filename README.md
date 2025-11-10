@@ -25,12 +25,12 @@
       </a>
       <br/>
       <sub><b>MultiShooting</b></sub><br/>
-      <sub>Unity_PUN2 개인 프로젝트</sub><br/>
+      <sub>Directx11 Tyemsia Team Projcet</sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
-        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="260px" height="400px" />
+        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="260" height="400" />
       </a>
       <br/>
       <sub><b>Thymesia</b></sub><br/>
