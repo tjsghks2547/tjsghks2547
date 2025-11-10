@@ -24,8 +24,8 @@
         <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9" width="260px" />
       </a>
       <br/>
-      <sub><b>MultiShooting</b></sub><br/>
-      <sub>Directx11 Tyemsia Team Projcet</sub><br/>
+      <sub><b>Tymesia</b></sub><br/>
+      <sub>Directx11 Tyemsia 팀 Projcet</sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
