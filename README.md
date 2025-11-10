@@ -26,7 +26,7 @@
       <br/>
       <sub><b>MultiShooting</b></sub><br/>
       <sub>Unity_PUN2 개인 프로젝트</sub><br/>
-      <sub><a href="https://github.com/내아이디/MultiShooting">레포 바로가기</a></sub>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">레포 바로가기</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/내아이디/Thymesia">
