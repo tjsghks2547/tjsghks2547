@@ -20,8 +20,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/내아이디/MultiShooting">
-        <img src="https://github.com/내아이디/내레포/raw/main/images/multishooting.png" width="260px" />
+      <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
+        <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9" width="260px" />
       </a>
       <br/>
       <sub><b>MultiShooting</b></sub><br/>
