@@ -22,7 +22,7 @@
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
         <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9"
-          style="width:320px; height:200px; object-fit:cover; border-radius:6px;"/>
+          style="width:260px; height:260px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
       <sub><b>Tymesia</b></sub><br/>
@@ -32,7 +32,7 @@
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
         <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1"
-          style="width:320px; height:200px; object-fit:cover; border-radius:6px;"/>
+          style="width:260px; height:260px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
       <sub><b>Kaku Ancient Seal</b></sub><br/>
