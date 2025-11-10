@@ -30,11 +30,11 @@
     </td>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
-        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="260" height="400" />
+        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1" width="300" height="400" />
       </a>
       <br/>
-      <sub><b>Thymesia</b></sub><br/>
-      <sub>DirectX11 팀 프로젝트</sub><br/>
+      <sub><b>Kaku Ancient Seal</b></sub><br/>
+      <sub>DirectX11 개인 프로젝트</sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
     </td>
     <td align="center">
