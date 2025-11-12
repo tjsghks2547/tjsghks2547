@@ -44,7 +44,7 @@
         <img src="https://github.com/내아이디/내레포/raw/main/images/maptool.png" width="260px" />
       </a>
       <br/>
-      <sub><b>Thymesia MapTool</b></sub><br/>
+      <sub><b>Thymesia AnimationTool</b></sub><br/>
       <sub>애니메이션 툴 시스템 구현</sub><br/>
       <sub><a href="https://github.com/내아이디/ThymesiaMapTool">레포 바로가기</a></sub>
     </td>
