@@ -26,7 +26,7 @@
       </a>
       <br/>
       <sub><b>Tymesia</b></sub><br/>
-      <sub>Directx11 Tyemsia 팀 Projcet</sub><br/>
+      <sub>Directx11 Tyemsia 팀 프로젝트</sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
@@ -58,10 +58,29 @@
       </a>
       <br/>
       <sub><b>Kaku Ancient Seal MapTool</b></sub><br/>
-      <sub>Directx11 개인프로젝트 Projcet</sub><br/>
+      <sub>Directx11 개인프로젝트 </sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Directx11_Kaku_Ancient_Seal_MapTool">저장소 바로가기</a></sub>
-    </td>
-
+     </td>
+    <td align="center">
+      <a href="https://github.com/tjsghks2547/Directx9_Ogu_and_the_Secret_Forest_Team_Project?tab=readme-ov-file">
+        <img src="https://github.com/user-attachments/assets/579f1ef0-9e9f-4a2f-83eb-beddf8940d1b"
+          style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/>
+      <sub><b>오구와 비밀의 숲</b></sub><br/>
+      <sub> Directx9 팀프로젝트 </sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Directx9_Ogu_and_the_Secret_Forest_Team_Project?tab=readme-ov-file">저장소 바로가기</a></sub>
+     </td>
+    <td align="center">
+      <a href="https://github.com/tjsghks2547/WinApi-HallowKnight-CopyGame">
+        <img src="https://github.com/user-attachments/assets/a6d734c9-9526-496f-9ab4-42de95e2eb0e"
+          style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/>
+      <sub><b>할로우 나이트</b></sub><br/>
+      <sub>WinApi 개인 프로젝트 </sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/WinApi-HallowKnight-CopyGame">저장소 바로가기</a></sub>
+     </td>
   </tr>  
 </table>
 
