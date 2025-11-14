@@ -50,6 +50,19 @@
       <sub><a href="https://github.com/내아이디/ThymesiaMapTool">레포 바로가기</a></sub>
     </td>
   </tr>
+  <tr>
+     <td align="center">
+      <a href="https://github.com/tjsghks2547/Directx11_Kaku_Ancient_Seal_MapTool">
+        <img src="https://github.com/user-attachments/assets/8507c85d-a554-4728-a0e9-dd03c4b3d27d"
+          style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/>
+      <sub><b>Kaku Ancient Seal MapTool</b></sub><br/>
+      <sub>Directx11 개인프로젝트 Projcet</sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_Kaku_Ancient_Seal_MapTool">저장소 바로가기</a></sub>
+    </td>
+
+  </tr>  
 </table>
 
 ---
