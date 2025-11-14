@@ -40,14 +40,14 @@
       <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/tjsghks2547/ThymesiaMapTool">
+      <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Animation_Tool">
         <img src="https://github.com/user-attachments/assets/4e6f80ea-f8f6-4a5f-8913-062d8db97b53"
            style="width:230px; height:230px; object-fit:cover; border-radius:6px;" />
       </a>
       <br/>
       <sub><b>Thymesia AnimationTool</b></sub><br/>
       <sub>애니메이션 툴 시스템 구현</sub><br/>
-      <sub><a href="https://github.com/내아이디/ThymesiaMapTool">저장소 바로가기</a></sub>
+      <sub><a href=https://github.com/tjsghks2547/Directx11_Tymesia_Animation_Tool>저장소 바로가기</a></sub>
     </td>
   </tr>
   <tr>
