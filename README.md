@@ -40,8 +40,9 @@
       <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/내아이디/ThymesiaMapTool">
-        <img src="https://github.com/내아이디/내레포/raw/main/images/maptool.png" width="260px" />
+      <a href="https://github.com/tjsghks2547/ThymesiaMapTool">
+        <img src="https://github.com/user-attachments/assets/4e6f80ea-f8f6-4a5f-8913-062d8db97b53"
+           style="width:230px; height:230px; object-fit:cover; border-radius:6px;" />
       </a>
       <br/>
       <sub><b>Thymesia AnimationTool</b></sub><br/>
