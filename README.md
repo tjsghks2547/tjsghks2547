@@ -102,6 +102,6 @@
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsghks2547)](https://solved.ac/tjsghks2547/)
-
+.
 
 </div>
