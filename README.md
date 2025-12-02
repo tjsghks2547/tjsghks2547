@@ -93,10 +93,6 @@
 <img src="https://img.shields.io/badge/WinAPI-008080?style=flat&color=008080">
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsghks2547&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsghks2547&layout=compact&theme=dracula)
-
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsghks2547)](https://solved.ac/tjsghks2547/)
