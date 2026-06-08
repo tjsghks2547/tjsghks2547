@@ -91,7 +91,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&color=5C2D91">
 <img src="https://img.shields.io/badge/DirectX-0078D7?style=flat&color=0078D7">
 <img src="https://img.shields.io/badge/WinAPI-008080?style=flat&color=008080">
-<img src="https://img.shields.io/badge/Unreal-008080?style=flat&logo=#0E1128&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white">
 
 
 <br>
