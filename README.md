@@ -18,6 +18,28 @@
 
 # My Projects
 <table>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
+        <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9"
+          style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/>
+      <sub><b>Tymesia</b></sub><br/>
+      <sub>Directx11 Tyemsia 팀 프로젝트</sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
+        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1"
+          style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
+      </a>
+      <br/>
+      <sub><b>Kaku Ancient Seal</b></sub><br/>
+      <sub>DirectX11 개인 프로젝트</sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
