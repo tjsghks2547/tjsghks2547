@@ -95,7 +95,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Unreal_Blueprint_the-first-berserker_khazan">
-        <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1"
+        <img src="https://github.com/user-attachments/assets/5f0f7b5c-6613-43ed-a321-e0968fbccc4f"
           style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
