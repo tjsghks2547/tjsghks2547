@@ -26,7 +26,7 @@
       </a>
       <br/>
       <sub><b>Tymesia</b></sub><br/>
-      <sub>Directx11 Aion2 팀 프로젝트</sub><br/>
+      <sub>Directx11 팀 프로젝트</sub><br/>
       <sub><a href="https://github.com/tjsghks2547/Unreal-Engine-Aion2-Team-Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
