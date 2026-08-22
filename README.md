@@ -85,7 +85,7 @@
     <tr>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
-        <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9"
+        <img src="https://github.com/user-attachments/assets/a1604718-12c1-42c3-b231-29a1629bf254"
           style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
