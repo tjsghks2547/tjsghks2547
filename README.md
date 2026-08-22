@@ -94,14 +94,14 @@
       <sub><a href="https://github.com/tjsghks2547/Unreal-Engine-Aion2-Team-Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
+      <a href="https://github.com/tjsghks2547/Unreal_Blueprint_the-first-berserker_khazan">
         <img src="https://github.com/user-attachments/assets/de9b4573-1db3-460d-aca8-483bb99aacf1"
           style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
-      <sub><b>Kaku Ancient Seal</b></sub><br/>
-      <sub>DirectX11 개인 프로젝트</sub><br/>
-      <sub><a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">저장소 바로가기</a></sub>
+      <sub><b>the first berserker khazan</b></sub><br/>
+      <sub>Unreal Blueprint 프로젝트</sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Unreal_Blueprint_the-first-berserker_khazan">저장소 바로가기</a></sub>
     </td>
   </tr>
 </table>
