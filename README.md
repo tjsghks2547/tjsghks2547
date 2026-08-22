@@ -21,7 +21,7 @@
    <tr>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
-        <img src="https://github.com/user-attachments/assets/9368aeb3-6b5e-4d0a-b182-b35b090c0ed9](https://github.com/user-attachments/assets/b38d1161-85c9-439d-b86a-c156ce2a60fb"
+        <img src="https://github.com/user-attachments/assets/b38d1161-85c9-439d-b86a-c156ce2a60fb"
           style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
