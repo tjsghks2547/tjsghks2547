@@ -84,14 +84,14 @@
   </tr>
     <tr>
     <td align="center">
-      <a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">
+      <a href="https://github.com/tjsghks2547/Unreal-Engine-Aion2-Team-Project">
         <img src="https://github.com/user-attachments/assets/a1604718-12c1-42c3-b231-29a1629bf254"
           style="width:230px; height:230px; object-fit:cover; border-radius:6px;"/>
       </a>
       <br/>
-      <sub><b>Tymesia</b></sub><br/>
-      <sub>Directx11 Tyemsia 팀 프로젝트</sub><br/>
-      <sub><a href="https://github.com/tjsghks2547/Directx11_Tymesia_Team_Project">저장소 바로가기</a></sub>
+      <sub><b>Aion2</b></sub><br/>
+      <sub>Unreal Aion2 팀 프로젝트</sub><br/>
+      <sub><a href="https://github.com/tjsghks2547/Unreal-Engine-Aion2-Team-Project">저장소 바로가기</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/tjsghks2547/Directx11_3D_Kaku_Ancient_Seal_-">
